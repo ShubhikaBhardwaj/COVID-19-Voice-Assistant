@@ -1,0 +1,11 @@
+requests~=2.24.0
+certifi
+chardet
+comtypes
+idna
+pyttsx3~=2.90
+pywin32
+SpeechRecognition
+urllib3
+PyAudio
+
