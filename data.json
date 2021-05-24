@@ -1,0 +1,1764 @@
+{
+ "country": [
+  {
+   "name": "USA",
+   "url": "https://www.worldometers.info/coronavirus/country/us/",
+   "total_cases": "33,882,333",
+   "total_deaths": "603,876",
+   "total_recovered": "27,471,242",
+   "active_cases": "5,807,215"
+  },
+  {
+   "name": "India",
+   "url": "https://www.worldometers.info/coronavirus/country/india/",
+   "total_cases": "26,530,132",
+   "total_deaths": "299,296",
+   "total_recovered": "23,425,467",
+   "active_cases": "2,805,369"
+  },
+  {
+   "name": "Brazil",
+   "url": "https://www.worldometers.info/coronavirus/country/brazil/",
+   "total_cases": "16,047,439",
+   "total_deaths": "448,291",
+   "total_recovered": "14,462,432",
+   "active_cases": "1,136,716"
+  },
+  {
+   "name": "France",
+   "url": "https://www.worldometers.info/coronavirus/country/france/",
+   "total_cases": "5,593,962",
+   "total_deaths": "108,526",
+   "total_recovered": "5,195,781",
+   "active_cases": "289,655"
+  },
+  {
+   "name": "Turkey",
+   "url": "https://www.worldometers.info/coronavirus/country/turkey/",
+   "total_cases": "5,178,648",
+   "total_deaths": "46,071",
+   "total_recovered": "5,013,111",
+   "active_cases": "119,466"
+  },
+  {
+   "name": "Russia",
+   "url": "https://www.worldometers.info/coronavirus/country/russia/",
+   "total_cases": "5,001,505",
+   "total_deaths": "118,482",
+   "total_recovered": "4,617,762",
+   "active_cases": "265,261"
+  },
+  {
+   "name": "UK",
+   "url": "https://www.worldometers.info/coronavirus/country/uk/",
+   "total_cases": "4,460,446",
+   "total_deaths": "127,716",
+   "total_recovered": "4,299,889",
+   "active_cases": "32,841"
+  },
+  {
+   "name": "Italy",
+   "url": "https://www.worldometers.info/coronavirus/country/italy/",
+   "total_cases": "4,188,190",
+   "total_deaths": "125,153",
+   "total_recovered": "3,779,293",
+   "active_cases": "283,744"
+  },
+  {
+   "name": "Germany",
+   "url": "https://www.worldometers.info/coronavirus/country/germany/",
+   "total_cases": "3,653,019",
+   "total_deaths": "87,960",
+   "total_recovered": "3,397,100",
+   "active_cases": "167,959"
+  },
+  {
+   "name": "Spain",
+   "url": "https://www.worldometers.info/coronavirus/country/spain/",
+   "total_cases": "3,636,453",
+   "total_deaths": "79,620",
+   "total_recovered": "3,356,272",
+   "active_cases": "200,561"
+  },
+  {
+   "name": "Argentina",
+   "url": "https://www.worldometers.info/coronavirus/country/argentina/",
+   "total_cases": "3,514,683",
+   "total_deaths": "73,688",
+   "total_recovered": "3,083,298",
+   "active_cases": "357,697"
+  },
+  {
+   "name": "Colombia",
+   "url": "https://www.worldometers.info/coronavirus/country/colombia/",
+   "total_cases": "3,210,787",
+   "total_deaths": "84,228",
+   "total_recovered": "3,011,234",
+   "active_cases": "115,325"
+  },
+  {
+   "name": "Poland",
+   "url": "https://www.worldometers.info/coronavirus/country/poland/",
+   "total_cases": "2,865,622",
+   "total_deaths": "72,928",
+   "total_recovered": "2,624,724",
+   "active_cases": "167,970"
+  },
+  {
+   "name": "Iran",
+   "url": "https://www.worldometers.info/coronavirus/country/iran/",
+   "total_cases": "2,832,518",
+   "total_deaths": "78,597",
+   "total_recovered": "2,333,789",
+   "active_cases": "420,132"
+  },
+  {
+   "name": "Mexico",
+   "url": "https://www.worldometers.info/coronavirus/country/mexico/",
+   "total_cases": "2,395,330",
+   "total_deaths": "221,597",
+   "total_recovered": "1,912,690",
+   "active_cases": "261,043"
+  },
+  {
+   "name": "Ukraine",
+   "url": "https://www.worldometers.info/coronavirus/country/ukraine/",
+   "total_cases": "2,182,521",
+   "total_deaths": "49,368",
+   "total_recovered": "1,950,562",
+   "active_cases": "182,591"
+  },
+  {
+   "name": "Peru",
+   "url": "https://www.worldometers.info/coronavirus/country/peru/",
+   "total_cases": "1,920,851",
+   "total_deaths": "67,807",
+   "total_recovered": "1,720,665",
+   "active_cases": "132,379"
+  },
+  {
+   "name": "Indonesia",
+   "url": "https://www.worldometers.info/coronavirus/country/indonesia/",
+   "total_cases": "1,775,220",
+   "total_deaths": "49,328",
+   "total_recovered": "1,633,045",
+   "active_cases": "92,847"
+  },
+  {
+   "name": "Czechia",
+   "url": "https://www.worldometers.info/coronavirus/country/czech-republic/",
+   "total_cases": "1,657,893",
+   "total_deaths": "30,020",
+   "total_recovered": "1,607,706",
+   "active_cases": "20,167"
+  },
+  {
+   "name": "South Africa",
+   "url": "https://www.worldometers.info/coronavirus/country/south-africa/",
+   "total_cases": "1,632,571",
+   "total_deaths": "55,772",
+   "total_recovered": "1,537,430",
+   "active_cases": "39,369"
+  },
+  {
+   "name": "Netherlands",
+   "url": "https://www.worldometers.info/coronavirus/country/netherlands/",
+   "total_cases": "1,622,810",
+   "total_deaths": "17,537",
+   "total_recovered": "1,418,317",
+   "active_cases": "186,956"
+  },
+  {
+   "name": "Canada",
+   "url": "https://www.worldometers.info/coronavirus/country/canada/",
+   "total_cases": "1,355,765",
+   "total_deaths": "25,203",
+   "total_recovered": "1,274,664",
+   "active_cases": "55,898"
+  },
+  {
+   "name": "Chile",
+   "url": "https://www.worldometers.info/coronavirus/country/chile/",
+   "total_cases": "1,323,413",
+   "total_deaths": "28,386",
+   "total_recovered": "1,252,970",
+   "active_cases": "42,057"
+  },
+  {
+   "name": "Philippines",
+   "url": "https://www.worldometers.info/coronavirus/country/philippines/",
+   "total_cases": "1,179,812",
+   "total_deaths": "19,951",
+   "total_recovered": "1,109,226",
+   "active_cases": "50,635"
+  },
+  {
+   "name": "Iraq",
+   "url": "https://www.worldometers.info/coronavirus/country/iraq/",
+   "total_cases": "1,164,149",
+   "total_deaths": "16,158",
+   "total_recovered": "1,076,804",
+   "active_cases": "71,187"
+  },
+  {
+   "name": "Romania",
+   "url": "https://www.worldometers.info/coronavirus/country/romania/",
+   "total_cases": "1,075,543",
+   "total_deaths": "29,941",
+   "total_recovered": "1,032,888",
+   "active_cases": "12,714"
+  },
+  {
+   "name": "Sweden",
+   "url": "https://www.worldometers.info/coronavirus/country/sweden/",
+   "total_cases": "1,058,341",
+   "total_deaths": "14,366",
+   "total_recovered": "923,866",
+   "active_cases": "120,109"
+  },
+  {
+   "name": "Belgium",
+   "url": "https://www.worldometers.info/coronavirus/country/belgium/",
+   "total_cases": "1,047,128",
+   "total_deaths": "24,823",
+   "total_recovered": "935,360",
+   "active_cases": "86,945"
+  },
+  {
+   "name": "Pakistan",
+   "url": "https://www.worldometers.info/coronavirus/country/pakistan/",
+   "total_cases": "900,552",
+   "total_deaths": "20,251",
+   "total_recovered": "817,681",
+   "active_cases": "62,620"
+  },
+  {
+   "name": "Portugal",
+   "url": "https://www.worldometers.info/coronavirus/country/portugal/",
+   "total_cases": "844,811",
+   "total_deaths": "17,017",
+   "total_recovered": "805,466",
+   "active_cases": "22,328"
+  },
+  {
+   "name": "Israel",
+   "url": "https://www.worldometers.info/coronavirus/country/israel/",
+   "total_cases": "839,316",
+   "total_deaths": "6,398",
+   "total_recovered": "832,376",
+   "active_cases": "542"
+  },
+  {
+   "name": "Hungary",
+   "url": "https://www.worldometers.info/coronavirus/country/hungary/",
+   "total_cases": "802,088",
+   "total_deaths": "29,519",
+   "total_recovered": "668,820",
+   "active_cases": "103,749"
+  },
+  {
+   "name": "Bangladesh",
+   "url": "https://www.worldometers.info/coronavirus/country/bangladesh/",
+   "total_cases": "787,726",
+   "total_deaths": "12,348",
+   "total_recovered": "729,798",
+   "active_cases": "45,580"
+  },
+  {
+   "name": "Jordan",
+   "url": "https://www.worldometers.info/coronavirus/country/jordan/",
+   "total_cases": "729,706",
+   "total_deaths": "9,357",
+   "total_recovered": "710,445",
+   "active_cases": "9,904"
+  },
+  {
+   "name": "Japan",
+   "url": "https://www.worldometers.info/coronavirus/country/japan/",
+   "total_cases": "714,274",
+   "total_deaths": "12,236",
+   "total_recovered": "634,103",
+   "active_cases": "67,935"
+  },
+  {
+   "name": "Serbia",
+   "url": "https://www.worldometers.info/coronavirus/country/serbia/",
+   "total_cases": "709,673",
+   "total_deaths": "6,766",
+   "total_recovered": "686,417",
+   "active_cases": "16,490"
+  },
+  {
+   "name": "Switzerland",
+   "url": "https://www.worldometers.info/coronavirus/country/switzerland/",
+   "total_cases": "687,353",
+   "total_deaths": "10,776",
+   "total_recovered": "631,406",
+   "active_cases": "45,171"
+  },
+  {
+   "name": "Austria",
+   "url": "https://www.worldometers.info/coronavirus/country/austria/",
+   "total_cases": "641,380",
+   "total_deaths": "10,546",
+   "total_recovered": "622,889",
+   "active_cases": "7,945"
+  },
+  {
+   "name": "UAE",
+   "url": "https://www.worldometers.info/coronavirus/country/united-arab-emirates/",
+   "total_cases": "556,107",
+   "total_deaths": "1,651",
+   "total_recovered": "536,050",
+   "active_cases": "18,406"
+  },
+  {
+   "name": "Lebanon",
+   "url": "https://www.worldometers.info/coronavirus/country/lebanon/",
+   "total_cases": "538,218",
+   "total_deaths": "7,670",
+   "total_recovered": "508,930",
+   "active_cases": "21,618"
+  },
+  {
+   "name": "Morocco",
+   "url": "https://www.worldometers.info/coronavirus/country/morocco/",
+   "total_cases": "516,812",
+   "total_deaths": "9,119",
+   "total_recovered": "505,050",
+   "active_cases": "2,643"
+  },
+  {
+   "name": "Malaysia",
+   "url": "https://www.worldometers.info/coronavirus/country/malaysia/",
+   "total_cases": "512,091",
+   "total_deaths": "2,248",
+   "total_recovered": "452,821",
+   "active_cases": "57,022"
+  },
+  {
+   "name": "Nepal",
+   "url": "https://www.worldometers.info/coronavirus/country/nepal/",
+   "total_cases": "505,643",
+   "total_deaths": "6,153",
+   "total_recovered": "383,684",
+   "active_cases": "115,806"
+  },
+  {
+   "name": "Saudi Arabia",
+   "url": "https://www.worldometers.info/coronavirus/country/saudi-arabia/",
+   "total_cases": "439,847",
+   "total_deaths": "7,237",
+   "total_recovered": "423,795",
+   "active_cases": "8,815"
+  },
+  {
+   "name": "Ecuador",
+   "url": "https://www.worldometers.info/coronavirus/country/ecuador/",
+   "total_cases": "417,840",
+   "total_deaths": "20,180",
+   "total_recovered": "354,499",
+   "active_cases": "43,161"
+  },
+  {
+   "name": "Bulgaria",
+   "url": "https://www.worldometers.info/coronavirus/country/bulgaria/",
+   "total_cases": "416,565",
+   "total_deaths": "17,487",
+   "total_recovered": "373,202",
+   "active_cases": "25,876"
+  },
+  {
+   "name": "Greece",
+   "url": "https://www.worldometers.info/coronavirus/country/greece/",
+   "total_cases": "388,929",
+   "total_deaths": "11,734",
+   "total_recovered": "352,207",
+   "active_cases": "24,988"
+  },
+  {
+   "name": "Slovakia",
+   "url": "https://www.worldometers.info/coronavirus/country/slovakia/",
+   "total_cases": "388,835",
+   "total_deaths": "12,292",
+   "total_recovered": "373,189",
+   "active_cases": "3,354"
+  },
+  {
+   "name": "Belarus",
+   "url": "https://www.worldometers.info/coronavirus/country/belarus/",
+   "total_cases": "386,025",
+   "total_deaths": "2,771",
+   "total_recovered": "376,453",
+   "active_cases": "6,801"
+  },
+  {
+   "name": "Panama",
+   "url": "https://www.worldometers.info/coronavirus/country/panama/",
+   "total_cases": "373,774",
+   "total_deaths": "6,328",
+   "total_recovered": "361,532",
+   "active_cases": "5,914"
+  },
+  {
+   "name": "Kazakhstan",
+   "url": "https://www.worldometers.info/coronavirus/country/kazakhstan/",
+   "total_cases": "373,182",
+   "total_deaths": "4,124",
+   "total_recovered": "335,938",
+   "active_cases": "33,120"
+  },
+  {
+   "name": "Croatia",
+   "url": "https://www.worldometers.info/coronavirus/country/croatia/",
+   "total_cases": "353,986",
+   "total_deaths": "7,903",
+   "total_recovered": "342,202",
+   "active_cases": "3,881"
+  },
+  {
+   "name": "Bolivia",
+   "url": "https://www.worldometers.info/coronavirus/country/bolivia/",
+   "total_cases": "346,070",
+   "total_deaths": "13,857",
+   "total_recovered": "279,345",
+   "active_cases": "52,868"
+  },
+  {
+   "name": "Georgia",
+   "url": "https://www.worldometers.info/coronavirus/country/georgia/",
+   "total_cases": "337,573",
+   "total_deaths": "4,622",
+   "total_recovered": "318,599",
+   "active_cases": "14,352"
+  },
+  {
+   "name": "Tunisia",
+   "url": "https://www.worldometers.info/coronavirus/country/tunisia/",
+   "total_cases": "334,099",
+   "total_deaths": "12,182",
+   "total_recovered": "295,170",
+   "active_cases": "26,747"
+  },
+  {
+   "name": "Azerbaijan",
+   "url": "https://www.worldometers.info/coronavirus/country/azerbaijan/",
+   "total_cases": "332,235",
+   "total_deaths": "4,851",
+   "total_recovered": "319,991",
+   "active_cases": "7,393"
+  },
+  {
+   "name": "Paraguay",
+   "url": "https://www.worldometers.info/coronavirus/country/paraguay/",
+   "total_cases": "330,457",
+   "total_deaths": "8,235",
+   "total_recovered": "272,721",
+   "active_cases": "49,501"
+  },
+  {
+   "name": "Palestine",
+   "url": "https://www.worldometers.info/coronavirus/country/state-of-palestine/",
+   "total_cases": "305,201",
+   "total_deaths": "3,459",
+   "total_recovered": "297,201",
+   "active_cases": "4,541"
+  },
+  {
+   "name": "Costa Rica",
+   "url": "https://www.worldometers.info/coronavirus/country/costa-rica/",
+   "total_cases": "299,219",
+   "total_deaths": "3,765",
+   "total_recovered": "228,589",
+   "active_cases": "66,865"
+  },
+  {
+   "name": "Kuwait",
+   "url": "https://www.worldometers.info/coronavirus/country/kuwait/",
+   "total_cases": "298,223",
+   "total_deaths": "1,724",
+   "total_recovered": "283,952",
+   "active_cases": "12,547"
+  },
+  {
+   "name": "Dominican Republic",
+   "url": "https://www.worldometers.info/coronavirus/country/dominican-republic/",
+   "total_cases": "282,685",
+   "total_deaths": "3,606",
+   "total_recovered": "235,636",
+   "active_cases": "43,443"
+  },
+  {
+   "name": "Denmark",
+   "url": "https://www.worldometers.info/coronavirus/country/denmark/",
+   "total_cases": "272,659",
+   "total_deaths": "2,507",
+   "total_recovered": "256,535",
+   "active_cases": "13,617"
+  },
+  {
+   "name": "Lithuania",
+   "url": "https://www.worldometers.info/coronavirus/country/lithuania/",
+   "total_cases": "270,849",
+   "total_deaths": "4,185",
+   "total_recovered": "247,662",
+   "active_cases": "19,002"
+  },
+  {
+   "name": "Ethiopia",
+   "url": "https://www.worldometers.info/coronavirus/country/ethiopia/",
+   "total_cases": "268,901",
+   "total_deaths": "4,068",
+   "total_recovered": "227,080",
+   "active_cases": "37,753"
+  },
+  {
+   "name": "Uruguay",
+   "url": "https://www.worldometers.info/coronavirus/country/uruguay/",
+   "total_cases": "262,009",
+   "total_deaths": "3,811",
+   "total_recovered": "224,787",
+   "active_cases": "33,411"
+  },
+  {
+   "name": "Ireland",
+   "url": "https://www.worldometers.info/coronavirus/country/ireland/",
+   "total_cases": "258,267",
+   "total_deaths": "4,941",
+   "total_recovered": "240,369",
+   "active_cases": "12,957"
+  },
+  {
+   "name": "Moldova",
+   "url": "https://www.worldometers.info/coronavirus/country/moldova/",
+   "total_cases": "254,601",
+   "total_deaths": "6,072",
+   "total_recovered": "246,332",
+   "active_cases": "2,197"
+  },
+  {
+   "name": "Egypt",
+   "url": "https://www.worldometers.info/coronavirus/country/egypt/",
+   "total_cases": "252,690",
+   "total_deaths": "14,670",
+   "total_recovered": "186,223",
+   "active_cases": "51,797"
+  },
+  {
+   "name": "Slovenia",
+   "url": "https://www.worldometers.info/coronavirus/country/slovenia/",
+   "total_cases": "251,690",
+   "total_deaths": "4,353",
+   "total_recovered": "241,735",
+   "active_cases": "5,602"
+  },
+  {
+   "name": "Guatemala",
+   "url": "https://www.worldometers.info/coronavirus/country/guatemala/",
+   "total_cases": "247,106",
+   "total_deaths": "7,996",
+   "total_recovered": "226,819",
+   "active_cases": "12,291"
+  },
+  {
+   "name": "Honduras",
+   "url": "https://www.worldometers.info/coronavirus/country/honduras/",
+   "total_cases": "232,141",
+   "total_deaths": "6,143",
+   "total_recovered": "83,625",
+   "active_cases": "142,373"
+  },
+  {
+   "name": "Venezuela",
+   "url": "https://www.worldometers.info/coronavirus/country/venezuela/",
+   "total_cases": "222,052",
+   "total_deaths": "2,499",
+   "total_recovered": "205,575",
+   "active_cases": "13,978"
+  },
+  {
+   "name": "Armenia",
+   "url": "https://www.worldometers.info/coronavirus/country/armenia/",
+   "total_cases": "221,948",
+   "total_deaths": "4,392",
+   "total_recovered": "211,057",
+   "active_cases": "6,499"
+  },
+  {
+   "name": "Qatar",
+   "url": "https://www.worldometers.info/coronavirus/country/qatar/",
+   "total_cases": "215,160",
+   "total_deaths": "543",
+   "total_recovered": "210,589",
+   "active_cases": "4,028"
+  },
+  {
+   "name": "Bahrain",
+   "url": "https://www.worldometers.info/coronavirus/country/bahrain/",
+   "total_cases": "214,870",
+   "total_deaths": "812",
+   "total_recovered": "193,337",
+   "active_cases": "20,721"
+  },
+  {
+   "name": "Oman",
+   "url": "https://www.worldometers.info/coronavirus/country/oman/",
+   "total_cases": "210,364",
+   "total_deaths": "2,265",
+   "total_recovered": "193,950",
+   "active_cases": "14,149"
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "url": "https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/",
+   "total_cases": "203,150",
+   "total_deaths": "9,108",
+   "total_recovered": "172,005",
+   "active_cases": "22,037"
+  },
+  {
+   "name": "Libya",
+   "url": "https://www.worldometers.info/coronavirus/country/libya/",
+   "total_cases": "183,311",
+   "total_deaths": "3,111",
+   "total_recovered": "169,945",
+   "active_cases": "10,255"
+  },
+  {
+   "name": "Kenya",
+   "url": "https://www.worldometers.info/coronavirus/country/kenya/",
+   "total_cases": "168,108",
+   "total_deaths": "3,049",
+   "total_recovered": "114,452",
+   "active_cases": "50,607"
+  },
+  {
+   "name": "Nigeria",
+   "url": "https://www.worldometers.info/coronavirus/country/nigeria/",
+   "total_cases": "165,979",
+   "total_deaths": "2,067",
+   "total_recovered": "156,468",
+   "active_cases": "7,444"
+  },
+  {
+   "name": "Sri Lanka",
+   "url": "https://www.worldometers.info/coronavirus/country/sri-lanka/",
+   "total_cases": "161,242",
+   "total_deaths": "1,178",
+   "total_recovered": "126,995",
+   "active_cases": "33,069"
+  },
+  {
+   "name": "North Macedonia",
+   "url": "https://www.worldometers.info/coronavirus/country/macedonia/",
+   "total_cases": "155,028",
+   "total_deaths": "5,296",
+   "total_recovered": "146,800",
+   "active_cases": "2,932"
+  },
+  {
+   "name": "Myanmar",
+   "url": "https://www.worldometers.info/coronavirus/country/myanmar/",
+   "total_cases": "143,228",
+   "total_deaths": "3,216",
+   "total_recovered": "132,177",
+   "active_cases": "7,835"
+  },
+  {
+   "name": "S. Korea",
+   "url": "https://www.worldometers.info/coronavirus/country/south-korea/",
+   "total_cases": "135,929",
+   "total_deaths": "1,931",
+   "total_recovered": "125,881",
+   "active_cases": "8,117"
+  },
+  {
+   "name": "Albania",
+   "url": "https://www.worldometers.info/coronavirus/country/albania/",
+   "total_cases": "132,176",
+   "total_deaths": "2,442",
+   "total_recovered": "128,601",
+   "active_cases": "1,133"
+  },
+  {
+   "name": "Cuba",
+   "url": "https://www.worldometers.info/coronavirus/country/cuba/",
+   "total_cases": "131,832",
+   "total_deaths": "863",
+   "total_recovered": "124,020",
+   "active_cases": "6,949"
+  },
+  {
+   "name": "Latvia",
+   "url": "https://www.worldometers.info/coronavirus/country/latvia/",
+   "total_cases": "130,945",
+   "total_deaths": "2,326",
+   "total_recovered": "121,123",
+   "active_cases": "7,496"
+  },
+  {
+   "name": "Thailand",
+   "url": "https://www.worldometers.info/coronavirus/country/thailand/",
+   "total_cases": "129,500",
+   "total_deaths": "776",
+   "total_recovered": "84,535",
+   "active_cases": "44,189"
+  },
+  {
+   "name": "Estonia",
+   "url": "https://www.worldometers.info/coronavirus/country/estonia/",
+   "total_cases": "128,592",
+   "total_deaths": "1,240",
+   "total_recovered": "120,886",
+   "active_cases": "6,466"
+  },
+  {
+   "name": "Algeria",
+   "url": "https://www.worldometers.info/coronavirus/country/algeria/",
+   "total_cases": "126,651",
+   "total_deaths": "3,411",
+   "total_recovered": "88,208",
+   "active_cases": "35,032"
+  },
+  {
+   "name": "Norway",
+   "url": "https://www.worldometers.info/coronavirus/country/norway/",
+   "total_cases": "121,963",
+   "total_deaths": "781",
+   "total_recovered": "88,952",
+   "active_cases": "32,230"
+  },
+  {
+   "name": "Kyrgyzstan",
+   "url": "https://www.worldometers.info/coronavirus/country/kyrgyzstan/",
+   "total_cases": "102,511",
+   "total_deaths": "1,751",
+   "total_recovered": "95,811",
+   "active_cases": "4,949"
+  },
+  {
+   "name": "Montenegro",
+   "url": "https://www.worldometers.info/coronavirus/country/montenegro/",
+   "total_cases": "99,203",
+   "total_deaths": "1,572",
+   "total_recovered": "96,543",
+   "active_cases": "1,088"
+  },
+  {
+   "name": "Uzbekistan",
+   "url": "https://www.worldometers.info/coronavirus/country/uzbekistan/",
+   "total_cases": "98,451",
+   "total_deaths": "680",
+   "total_recovered": "93,930",
+   "active_cases": "3,841"
+  },
+  {
+   "name": "Ghana",
+   "url": "https://www.worldometers.info/coronavirus/country/ghana/",
+   "total_cases": "93,583",
+   "total_deaths": "783",
+   "total_recovered": "91,511",
+   "active_cases": "1,289"
+  },
+  {
+   "name": "Zambia",
+   "url": "https://www.worldometers.info/coronavirus/country/zambia/",
+   "total_cases": "93,106",
+   "total_deaths": "1,267",
+   "total_recovered": "91,102",
+   "active_cases": "737"
+  },
+  {
+   "name": "Finland",
+   "url": "https://www.worldometers.info/coronavirus/country/finland/",
+   "total_cases": "91,526",
+   "total_deaths": "932",
+   "total_recovered": "46,000",
+   "active_cases": "44,594"
+  },
+  {
+   "name": "China",
+   "url": "https://www.worldometers.info/coronavirus/country/china/",
+   "total_cases": "90,973",
+   "total_deaths": "4,636",
+   "total_recovered": "86,022",
+   "active_cases": "315"
+  },
+  {
+   "name": "Cameroon",
+   "url": "https://www.worldometers.info/coronavirus/country/cameroon/",
+   "total_cases": "77,733",
+   "total_deaths": "1,239",
+   "total_recovered": "72,226",
+   "active_cases": "4,268"
+  },
+  {
+   "name": "El Salvador",
+   "url": "https://www.worldometers.info/coronavirus/country/el-salvador/",
+   "total_cases": "72,220",
+   "total_deaths": "2,216",
+   "total_recovered": "67,510",
+   "active_cases": "2,494"
+  },
+  {
+   "name": "Cyprus",
+   "url": "https://www.worldometers.info/coronavirus/country/cyprus/",
+   "total_cases": "71,836",
+   "total_deaths": "353",
+   "total_recovered": "39,061",
+   "active_cases": "32,422"
+  },
+  {
+   "name": "Mozambique",
+   "url": "https://www.worldometers.info/coronavirus/country/mozambique/",
+   "total_cases": "70,568",
+   "total_deaths": "831",
+   "total_recovered": "68,845",
+   "active_cases": "892"
+  },
+  {
+   "name": "Luxembourg",
+   "url": "https://www.worldometers.info/coronavirus/country/luxembourg/",
+   "total_cases": "69,607",
+   "total_deaths": "811",
+   "total_recovered": "67,162",
+   "active_cases": "1,634"
+  },
+  {
+   "name": "Afghanistan",
+   "url": "https://www.worldometers.info/coronavirus/country/afghanistan/",
+   "total_cases": "66,275",
+   "total_deaths": "2,812",
+   "total_recovered": "56,035",
+   "active_cases": "7,428"
+  },
+  {
+   "name": "Singapore",
+   "url": "https://www.worldometers.info/coronavirus/country/singapore/",
+   "total_cases": "61,824",
+   "total_deaths": "32",
+   "total_recovered": "61,277",
+   "active_cases": "515"
+  },
+  {
+   "name": "Maldives",
+   "url": "https://www.worldometers.info/coronavirus/country/maldives/",
+   "total_cases": "54,365",
+   "total_deaths": "125",
+   "total_recovered": "31,812",
+   "active_cases": "22,428"
+  },
+  {
+   "name": "Namibia",
+   "url": "https://www.worldometers.info/coronavirus/country/namibia/",
+   "total_cases": "52,712",
+   "total_deaths": "763",
+   "total_recovered": "49,138",
+   "active_cases": "2,811"
+  },
+  {
+   "name": "Mongolia",
+   "url": "https://www.worldometers.info/coronavirus/country/mongolia/",
+   "total_cases": "52,470",
+   "total_deaths": "248",
+   "total_recovered": "46,338",
+   "active_cases": "5,884"
+  },
+  {
+   "name": "Botswana",
+   "url": "https://www.worldometers.info/coronavirus/country/botswana/",
+   "total_cases": "51,620",
+   "total_deaths": "784",
+   "total_recovered": "48,449",
+   "active_cases": "2,387"
+  },
+  {
+   "name": "Jamaica",
+   "url": "https://www.worldometers.info/coronavirus/country/jamaica/",
+   "total_cases": "47,899",
+   "total_deaths": "912",
+   "total_recovered": "23,742",
+   "active_cases": "23,245"
+  },
+  {
+   "name": "Ivory Coast",
+   "url": "https://www.worldometers.info/coronavirus/country/cote-d-ivoire/",
+   "total_cases": "46,942",
+   "total_deaths": "298",
+   "total_recovered": "46,346",
+   "active_cases": "298"
+  },
+  {
+   "name": "Uganda",
+   "url": "https://www.worldometers.info/coronavirus/country/uganda/",
+   "total_cases": "43,507",
+   "total_deaths": "350",
+   "total_recovered": "42,880",
+   "active_cases": "277"
+  },
+  {
+   "name": "Senegal",
+   "url": "https://www.worldometers.info/coronavirus/country/senegal/",
+   "total_cases": "41,062",
+   "total_deaths": "1,130",
+   "total_recovered": "39,738",
+   "active_cases": "194"
+  },
+  {
+   "name": "Madagascar",
+   "url": "https://www.worldometers.info/coronavirus/country/madagascar/",
+   "total_cases": "40,876",
+   "total_deaths": "800",
+   "total_recovered": "39,255",
+   "active_cases": "821"
+  },
+  {
+   "name": "Zimbabwe",
+   "url": "https://www.worldometers.info/coronavirus/country/zimbabwe/",
+   "total_cases": "38,679",
+   "total_deaths": "1,586",
+   "total_recovered": "36,445",
+   "active_cases": "648"
+  },
+  {
+   "name": "Sudan",
+   "url": "https://www.worldometers.info/coronavirus/country/sudan/",
+   "total_cases": "35,071",
+   "total_deaths": "2,568",
+   "total_recovered": "27,949",
+   "active_cases": "4,554"
+  },
+  {
+   "name": "Malawi",
+   "url": "https://www.worldometers.info/coronavirus/country/malawi/",
+   "total_cases": "34,274",
+   "total_deaths": "1,153",
+   "total_recovered": "32,318",
+   "active_cases": "803"
+  },
+  {
+   "name": "Angola",
+   "url": "https://www.worldometers.info/coronavirus/country/angola/",
+   "total_cases": "32,149",
+   "total_deaths": "715",
+   "total_recovered": "26,775",
+   "active_cases": "4,659"
+  },
+  {
+   "name": "DRC",
+   "url": "https://www.worldometers.info/coronavirus/country/democratic-republic-of-the-congo/",
+   "total_cases": "30,863",
+   "total_deaths": "779",
+   "total_recovered": "27,603",
+   "active_cases": "2,481"
+  },
+  {
+   "name": "Malta",
+   "url": "https://www.worldometers.info/coronavirus/country/malta/",
+   "total_cases": "30,504",
+   "total_deaths": "417",
+   "total_recovered": "30,006",
+   "active_cases": "81"
+  },
+  {
+   "name": "Australia",
+   "url": "https://www.worldometers.info/coronavirus/country/australia/",
+   "total_cases": "30,005",
+   "total_deaths": "910",
+   "total_recovered": "29,000",
+   "active_cases": "95"
+  },
+  {
+   "name": "Cabo Verde",
+   "url": "https://www.worldometers.info/coronavirus/country/cabo-verde/",
+   "total_cases": "29,198",
+   "total_deaths": "256",
+   "total_recovered": "26,657",
+   "active_cases": "2,285"
+  },
+  {
+   "name": "Rwanda",
+   "url": "https://www.worldometers.info/coronavirus/country/rwanda/",
+   "total_cases": "26,658",
+   "total_deaths": "349",
+   "total_recovered": "24,967",
+   "active_cases": "1,342"
+  },
+  {
+   "name": "Cambodia",
+   "url": "https://www.worldometers.info/coronavirus/country/cambodia/",
+   "total_cases": "25,205",
+   "total_deaths": "176",
+   "total_recovered": "17,701",
+   "active_cases": "7,328"
+  },
+  {
+   "name": "Gabon",
+   "url": "https://www.worldometers.info/coronavirus/country/gabon/",
+   "total_cases": "24,107",
+   "total_deaths": "147",
+   "total_recovered": "20,976",
+   "active_cases": "2,984"
+  },
+  {
+   "name": "Syria",
+   "url": "https://www.worldometers.info/coronavirus/country/syria/",
+   "total_cases": "24,052",
+   "total_deaths": "1,729",
+   "total_recovered": "21,534",
+   "active_cases": "789"
+  },
+  {
+   "name": "Réunion",
+   "url": "https://www.worldometers.info/coronavirus/country/reunion/",
+   "total_cases": "23,566",
+   "total_deaths": "176",
+   "total_recovered": "21,709",
+   "active_cases": "1,681"
+  },
+  {
+   "name": "Guinea",
+   "url": "https://www.worldometers.info/coronavirus/country/guinea/",
+   "total_cases": "22,988",
+   "total_deaths": "158",
+   "total_recovered": "20,699",
+   "active_cases": "2,131"
+  },
+  {
+   "name": "French Guiana",
+   "url": "https://www.worldometers.info/coronavirus/country/french-guiana/",
+   "total_cases": "22,780",
+   "total_deaths": "112",
+   "total_recovered": "9,995",
+   "active_cases": "12,673"
+  },
+  {
+   "name": "Mayotte",
+   "url": "https://www.worldometers.info/coronavirus/country/mayotte/",
+   "total_cases": "20,176",
+   "total_deaths": "171",
+   "total_recovered": "2,964",
+   "active_cases": "17,041"
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "url": "https://www.worldometers.info/coronavirus/country/trinidad-and-tobago/",
+   "total_cases": "19,444",
+   "total_deaths": "365",
+   "total_recovered": "11,314",
+   "active_cases": "7,765"
+  },
+  {
+   "name": "Mauritania",
+   "url": "https://www.worldometers.info/coronavirus/country/mauritania/",
+   "total_cases": "19,114",
+   "total_deaths": "458",
+   "total_recovered": "18,249",
+   "active_cases": "407"
+  },
+  {
+   "name": "French Polynesia",
+   "url": "https://www.worldometers.info/coronavirus/country/french-polynesia/",
+   "total_cases": "18,844",
+   "total_deaths": "141",
+   "total_recovered": "18,677",
+   "active_cases": "26"
+  },
+  {
+   "name": "Eswatini",
+   "url": "https://www.worldometers.info/coronavirus/country/swaziland/",
+   "total_cases": "18,550",
+   "total_deaths": "672",
+   "total_recovered": "17,829",
+   "active_cases": "49"
+  },
+  {
+   "name": "Guadeloupe",
+   "url": "https://www.worldometers.info/coronavirus/country/guadeloupe/",
+   "total_cases": "16,530",
+   "total_deaths": "221",
+   "total_recovered": "2,250",
+   "active_cases": "14,059"
+  },
+  {
+   "name": "Guyana",
+   "url": "https://www.worldometers.info/coronavirus/country/guyana/",
+   "total_cases": "16,014",
+   "total_deaths": "355",
+   "total_recovered": "13,710",
+   "active_cases": "1,949"
+  },
+  {
+   "name": "Papua New Guinea",
+   "url": "https://www.worldometers.info/coronavirus/country/papua-new-guinea/",
+   "total_cases": "14,910",
+   "total_deaths": "154",
+   "total_recovered": "13,801",
+   "active_cases": "955"
+  },
+  {
+   "name": "Somalia",
+   "url": "https://www.worldometers.info/coronavirus/country/somalia/",
+   "total_cases": "14,623",
+   "total_deaths": "767",
+   "total_recovered": "6,662",
+   "active_cases": "7,194"
+  },
+  {
+   "name": "Mali",
+   "url": "https://www.worldometers.info/coronavirus/country/mali/",
+   "total_cases": "14,240",
+   "total_deaths": "513",
+   "total_recovered": "9,431",
+   "active_cases": "4,296"
+  },
+  {
+   "name": "Haiti",
+   "url": "https://www.worldometers.info/coronavirus/country/haiti/",
+   "total_cases": "13,735",
+   "total_deaths": "280",
+   "total_recovered": "12,479",
+   "active_cases": "976"
+  },
+  {
+   "name": "Andorra",
+   "url": "https://www.worldometers.info/coronavirus/country/andorra/",
+   "total_cases": "13,569",
+   "total_deaths": "127",
+   "total_recovered": "13,234",
+   "active_cases": "208"
+  },
+  {
+   "name": "Burkina Faso",
+   "url": "https://www.worldometers.info/coronavirus/country/burkina-faso/",
+   "total_cases": "13,414",
+   "total_deaths": "165",
+   "total_recovered": "13,225",
+   "active_cases": "24"
+  },
+  {
+   "name": "Togo",
+   "url": "https://www.worldometers.info/coronavirus/country/togo/",
+   "total_cases": "13,363",
+   "total_deaths": "125",
+   "total_recovered": "12,222",
+   "active_cases": "1,016"
+  },
+  {
+   "name": "Tajikistan",
+   "url": "https://www.worldometers.info/coronavirus/country/tajikistan/",
+   "total_cases": "13,308",
+   "total_deaths": "90",
+   "total_recovered": "13,218",
+   "active_cases": "0"
+  },
+  {
+   "name": "Suriname",
+   "url": "https://www.worldometers.info/coronavirus/country/suriname/",
+   "total_cases": "12,928",
+   "total_deaths": "245",
+   "total_recovered": "10,729",
+   "active_cases": "1,954"
+  },
+  {
+   "name": "Belize",
+   "url": "https://www.worldometers.info/coronavirus/country/belize/",
+   "total_cases": "12,764",
+   "total_deaths": "323",
+   "total_recovered": "12,358",
+   "active_cases": "83"
+  },
+  {
+   "name": "Curaçao",
+   "url": "https://www.worldometers.info/coronavirus/country/curacao/",
+   "total_cases": "12,271",
+   "total_deaths": "122",
+   "total_recovered": "12,087",
+   "active_cases": "62"
+  },
+  {
+   "name": "Martinique",
+   "url": "https://www.worldometers.info/coronavirus/country/martinique/",
+   "total_cases": "11,866",
+   "total_deaths": "93",
+   "total_recovered": "98",
+   "active_cases": "11,675"
+  },
+  {
+   "name": "Hong Kong",
+   "url": "https://www.worldometers.info/coronavirus/country/china-hong-kong-sar/",
+   "total_cases": "11,833",
+   "total_deaths": "210",
+   "total_recovered": "11,553",
+   "active_cases": "70"
+  },
+  {
+   "name": "Djibouti",
+   "url": "https://www.worldometers.info/coronavirus/country/djibouti/",
+   "total_cases": "11,491",
+   "total_deaths": "152",
+   "total_recovered": "11,325",
+   "active_cases": "14"
+  },
+  {
+   "name": "Congo",
+   "url": "https://www.worldometers.info/coronavirus/country/congo/",
+   "total_cases": "11,476",
+   "total_deaths": "150",
+   "total_recovered": "8,208",
+   "active_cases": "3,118"
+  },
+  {
+   "name": "Bahamas",
+   "url": "https://www.worldometers.info/coronavirus/country/bahamas/",
+   "total_cases": "11,396",
+   "total_deaths": "222",
+   "total_recovered": "10,221",
+   "active_cases": "953"
+  },
+  {
+   "name": "Aruba",
+   "url": "https://www.worldometers.info/coronavirus/country/aruba/",
+   "total_cases": "10,915",
+   "total_deaths": "107",
+   "total_recovered": "10,738",
+   "active_cases": "70"
+  },
+  {
+   "name": "Lesotho",
+   "url": "https://www.worldometers.info/coronavirus/country/lesotho/",
+   "total_cases": "10,815",
+   "total_deaths": "326",
+   "total_recovered": "6,431",
+   "active_cases": "4,058"
+  },
+  {
+   "name": "South Sudan",
+   "url": "https://www.worldometers.info/coronavirus/country/south-sudan/",
+   "total_cases": "10,652",
+   "total_deaths": "115",
+   "total_recovered": "10,462",
+   "active_cases": "75"
+  },
+  {
+   "name": "Seychelles",
+   "url": "https://www.worldometers.info/coronavirus/country/seychelles/",
+   "total_cases": "9,764",
+   "total_deaths": "35",
+   "total_recovered": "7,826",
+   "active_cases": "1,903"
+  },
+  {
+   "name": "Equatorial Guinea",
+   "url": "https://www.worldometers.info/coronavirus/country/equatorial-guinea/",
+   "total_cases": "8,436",
+   "total_deaths": "113",
+   "total_recovered": "7,801",
+   "active_cases": "522"
+  },
+  {
+   "name": "Benin",
+   "url": "https://www.worldometers.info/coronavirus/country/benin/",
+   "total_cases": "8,025",
+   "total_deaths": "101",
+   "total_recovered": "7,893",
+   "active_cases": "31"
+  },
+  {
+   "name": "Nicaragua",
+   "url": "https://www.worldometers.info/coronavirus/country/nicaragua/",
+   "total_cases": "7,193",
+   "total_deaths": "185",
+   "total_recovered": "4,225",
+   "active_cases": "2,783"
+  },
+  {
+   "name": "CAR",
+   "url": "https://www.worldometers.info/coronavirus/country/central-african-republic/",
+   "total_cases": "7,010",
+   "total_deaths": "96",
+   "total_recovered": "5,112",
+   "active_cases": "1,802"
+  },
+  {
+   "name": "Yemen",
+   "url": "https://www.worldometers.info/coronavirus/country/yemen/",
+   "total_cases": "6,649",
+   "total_deaths": "1,304",
+   "total_recovered": "3,201",
+   "active_cases": "2,144"
+  },
+  {
+   "name": "Iceland",
+   "url": "https://www.worldometers.info/coronavirus/country/iceland/",
+   "total_cases": "6,556",
+   "total_deaths": "29",
+   "total_recovered": "6,478",
+   "active_cases": "49"
+  },
+  {
+   "name": "Gambia",
+   "url": "https://www.worldometers.info/coronavirus/country/gambia/",
+   "total_cases": "5,968",
+   "total_deaths": "175",
+   "total_recovered": "5,727",
+   "active_cases": "66"
+  },
+  {
+   "name": "Timor-Leste",
+   "url": "https://www.worldometers.info/coronavirus/country/timor-leste/",
+   "total_cases": "5,637",
+   "total_deaths": "13",
+   "total_recovered": "3,082",
+   "active_cases": "2,542"
+  },
+  {
+   "name": "Niger",
+   "url": "https://www.worldometers.info/coronavirus/country/niger/",
+   "total_cases": "5,369",
+   "total_deaths": "192",
+   "total_recovered": "5,033",
+   "active_cases": "144"
+  },
+  {
+   "name": "Vietnam",
+   "url": "https://www.worldometers.info/coronavirus/country/viet-nam/",
+   "total_cases": "5,141",
+   "total_deaths": "42",
+   "total_recovered": "2,721",
+   "active_cases": "2,378"
+  },
+  {
+   "name": "San Marino",
+   "url": "https://www.worldometers.info/coronavirus/country/san-marino/",
+   "total_cases": "5,087",
+   "total_deaths": "90",
+   "total_recovered": "4,974",
+   "active_cases": "23"
+  },
+  {
+   "name": "Saint Lucia",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-lucia/",
+   "total_cases": "4,935",
+   "total_deaths": "77",
+   "total_recovered": "4,617",
+   "active_cases": "241"
+  },
+  {
+   "name": "Chad",
+   "url": "https://www.worldometers.info/coronavirus/country/chad/",
+   "total_cases": "4,923",
+   "total_deaths": "173",
+   "total_recovered": "4,721",
+   "active_cases": "29"
+  },
+  {
+   "name": "Burundi",
+   "url": "https://www.worldometers.info/coronavirus/country/burundi/",
+   "total_cases": "4,494",
+   "total_deaths": "6",
+   "total_recovered": "773",
+   "active_cases": "3,715"
+  },
+  {
+   "name": "Taiwan",
+   "url": "https://www.worldometers.info/coronavirus/country/taiwan/",
+   "total_cases": "4,322",
+   "total_deaths": "23",
+   "total_recovered": "1,133",
+   "active_cases": "3,166"
+  },
+  {
+   "name": "Gibraltar",
+   "url": "https://www.worldometers.info/coronavirus/country/gibraltar/",
+   "total_cases": "4,287",
+   "total_deaths": "94",
+   "total_recovered": "4,192",
+   "active_cases": "1"
+  },
+  {
+   "name": "Sierra Leone",
+   "url": "https://www.worldometers.info/coronavirus/country/sierra-leone/",
+   "total_cases": "4,121",
+   "total_deaths": "79",
+   "total_recovered": "3,113",
+   "active_cases": "929"
+  },
+  {
+   "name": "Channel Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/channel-islands/",
+   "total_cases": "4,059",
+   "total_deaths": "86",
+   "total_recovered": "3,956",
+   "active_cases": "17"
+  },
+  {
+   "name": "Barbados",
+   "url": "https://www.worldometers.info/coronavirus/country/barbados/",
+   "total_cases": "3,991",
+   "total_deaths": "47",
+   "total_recovered": "3,922",
+   "active_cases": "22"
+  },
+  {
+   "name": "Eritrea",
+   "url": "https://www.worldometers.info/coronavirus/country/eritrea/",
+   "total_cases": "3,932",
+   "total_deaths": "14",
+   "total_recovered": "3,711",
+   "active_cases": "207"
+  },
+  {
+   "name": "Comoros",
+   "url": "https://www.worldometers.info/coronavirus/country/comoros/",
+   "total_cases": "3,870",
+   "total_deaths": "146",
+   "total_recovered": "3,710",
+   "active_cases": "14"
+  },
+  {
+   "name": "Guinea-Bissau",
+   "url": "https://www.worldometers.info/coronavirus/country/guinea-bissau/",
+   "total_cases": "3,749",
+   "total_deaths": "68",
+   "total_recovered": "3,478",
+   "active_cases": "203"
+  },
+  {
+   "name": "Liechtenstein",
+   "url": "https://www.worldometers.info/coronavirus/country/liechtenstein/",
+   "total_cases": "2,998",
+   "total_deaths": "58",
+   "total_recovered": "2,910",
+   "active_cases": "30"
+  },
+  {
+   "name": "New Zealand",
+   "url": "https://www.worldometers.info/coronavirus/country/new-zealand/",
+   "total_cases": "2,668",
+   "total_deaths": "26",
+   "total_recovered": "2,615",
+   "active_cases": "27"
+  },
+  {
+   "name": "Monaco",
+   "url": "https://www.worldometers.info/coronavirus/country/monaco/",
+   "total_cases": "2,501",
+   "total_deaths": "32",
+   "total_recovered": "2,459",
+   "active_cases": "10"
+  },
+  {
+   "name": "Bermuda",
+   "url": "https://www.worldometers.info/coronavirus/country/bermuda/",
+   "total_cases": "2,488",
+   "total_deaths": "32",
+   "total_recovered": "2,383",
+   "active_cases": "73"
+  },
+  {
+   "name": "Turks and Caicos",
+   "url": "https://www.worldometers.info/coronavirus/country/turks-and-caicos-islands/",
+   "total_cases": "2,408",
+   "total_deaths": "17",
+   "total_recovered": "2,379",
+   "active_cases": "12"
+  },
+  {
+   "name": "Sint Maarten",
+   "url": "https://www.worldometers.info/coronavirus/country/sint-maarten/",
+   "total_cases": "2,356",
+   "total_deaths": "27",
+   "total_recovered": "2,247",
+   "active_cases": "82"
+  },
+  {
+   "name": "Sao Tome and Principe",
+   "url": "https://www.worldometers.info/coronavirus/country/sao-tome-and-principe/",
+   "total_cases": "2,338",
+   "total_deaths": "36",
+   "total_recovered": "2,283",
+   "active_cases": "19"
+  },
+  {
+   "name": "Liberia",
+   "url": "https://www.worldometers.info/coronavirus/country/liberia/",
+   "total_cases": "2,142",
+   "total_deaths": "85",
+   "total_recovered": "2,022",
+   "active_cases": "35"
+  },
+  {
+   "name": "St. Vincent Grenadines",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-vincent-and-the-grenadines/",
+   "total_cases": "1,973",
+   "total_deaths": "12",
+   "total_recovered": "1,827",
+   "active_cases": "134"
+  },
+  {
+   "name": "Saint Martin",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-martin/",
+   "total_cases": "1,915",
+   "total_deaths": "12",
+   "total_recovered": "1,399",
+   "active_cases": "504"
+  },
+  {
+   "name": "Laos",
+   "url": "https://www.worldometers.info/coronavirus/country/laos/",
+   "total_cases": "1,801",
+   "total_deaths": "2",
+   "total_recovered": "1,074",
+   "active_cases": "725"
+  },
+  {
+   "name": "Caribbean Netherlands",
+   "url": "https://www.worldometers.info/coronavirus/country/caribbean-netherlands/",
+   "total_cases": "1,608",
+   "total_deaths": "17",
+   "total_recovered": "1,573",
+   "active_cases": "18"
+  },
+  {
+   "name": "Isle of Man",
+   "url": "https://www.worldometers.info/coronavirus/country/isle-of-man/",
+   "total_cases": "1,591",
+   "total_deaths": "29",
+   "total_recovered": "1,561",
+   "active_cases": "1"
+  },
+  {
+   "name": "Bhutan",
+   "url": "https://www.worldometers.info/coronavirus/country/bhutan/",
+   "total_cases": "1,392",
+   "total_deaths": "1",
+   "total_recovered": "1,186",
+   "active_cases": "205"
+  },
+  {
+   "name": "Mauritius",
+   "url": "https://www.worldometers.info/coronavirus/country/mauritius/",
+   "total_cases": "1,293",
+   "total_deaths": "17",
+   "total_recovered": "1,161",
+   "active_cases": "115"
+  },
+  {
+   "name": "Antigua and Barbuda",
+   "url": "https://www.worldometers.info/coronavirus/country/antigua-and-barbuda/",
+   "total_cases": "1,257",
+   "total_deaths": "42",
+   "total_recovered": "1,192",
+   "active_cases": "23"
+  },
+  {
+   "name": "St. Barth",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-barthelemy/",
+   "total_cases": "1,005",
+   "total_deaths": "1",
+   "total_recovered": "462",
+   "active_cases": "542"
+  },
+  {
+   "name": "Diamond Princess",
+   "total_cases": "712",
+   "total_deaths": "13",
+   "total_recovered": "699",
+   "active_cases": "0"
+  },
+  {
+   "name": "Faeroe Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/faeroe-islands/",
+   "total_cases": "673",
+   "total_deaths": "1",
+   "total_recovered": "668",
+   "active_cases": "4"
+  },
+  {
+   "name": "Cayman Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/cayman-islands/",
+   "total_cases": "574",
+   "total_deaths": "2",
+   "total_recovered": "554",
+   "active_cases": "18"
+  },
+  {
+   "name": "Tanzania",
+   "url": "https://www.worldometers.info/coronavirus/country/tanzania/",
+   "total_cases": "509",
+   "total_deaths": "21",
+   "total_recovered": "183",
+   "active_cases": "305"
+  },
+  {
+   "name": "Wallis and Futuna",
+   "url": "https://www.worldometers.info/coronavirus/country/wallis-and-futuna-islands/",
+   "total_cases": "445",
+   "total_deaths": "7",
+   "total_recovered": "438",
+   "active_cases": "0"
+  },
+  {
+   "name": "British Virgin Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/british-virgin-islands/",
+   "total_cases": "248",
+   "total_deaths": "1",
+   "total_recovered": "209",
+   "active_cases": "38"
+  },
+  {
+   "name": "Brunei",
+   "url": "https://www.worldometers.info/coronavirus/country/brunei-darussalam/",
+   "total_cases": "235",
+   "total_deaths": "3",
+   "total_recovered": "224",
+   "active_cases": "8"
+  },
+  {
+   "name": "Fiji",
+   "url": "https://www.worldometers.info/coronavirus/country/fiji/",
+   "total_cases": "224",
+   "total_deaths": "4",
+   "total_recovered": "134",
+   "active_cases": "86"
+  },
+  {
+   "name": "Dominica",
+   "url": "https://www.worldometers.info/coronavirus/country/dominica/",
+   "total_cases": "184",
+   "total_recovered": "176",
+   "active_cases": "8"
+  },
+  {
+   "name": "Grenada",
+   "url": "https://www.worldometers.info/coronavirus/country/grenada/",
+   "total_cases": "161",
+   "total_deaths": "1",
+   "total_recovered": "160",
+   "active_cases": "0"
+  },
+  {
+   "name": "New Caledonia",
+   "url": "https://www.worldometers.info/coronavirus/country/new-caledonia/",
+   "total_cases": "125",
+   "total_recovered": "58",
+   "active_cases": "67"
+  },
+  {
+   "name": "Anguilla",
+   "url": "https://www.worldometers.info/coronavirus/country/anguilla/",
+   "total_cases": "109",
+   "total_recovered": "107",
+   "active_cases": "2"
+  },
+  {
+   "name": "Falkland Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/falkland-islands-malvinas/",
+   "total_cases": "63",
+   "total_recovered": "63",
+   "active_cases": "0"
+  },
+  {
+   "name": "Macao",
+   "url": "https://www.worldometers.info/coronavirus/country/china-macao-sar/",
+   "total_cases": "50",
+   "total_recovered": "49",
+   "active_cases": "1"
+  },
+  {
+   "name": "Saint Kitts and Nevis",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-kitts-and-nevis/",
+   "total_cases": "46",
+   "total_recovered": "45",
+   "active_cases": "1"
+  },
+  {
+   "name": "Greenland",
+   "url": "https://www.worldometers.info/coronavirus/country/greenland/",
+   "total_cases": "34",
+   "total_recovered": "32",
+   "active_cases": "2"
+  },
+  {
+   "name": "Vatican City",
+   "url": "https://www.worldometers.info/coronavirus/country/holy-see/",
+   "total_cases": "27",
+   "total_recovered": "27",
+   "active_cases": "0"
+  },
+  {
+   "name": "Saint Pierre Miquelon",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-pierre-and-miquelon/",
+   "total_cases": "25",
+   "total_recovered": "25",
+   "active_cases": "0"
+  },
+  {
+   "name": "Montserrat",
+   "url": "https://www.worldometers.info/coronavirus/country/montserrat/",
+   "total_cases": "20",
+   "total_deaths": "1",
+   "total_recovered": "19",
+   "active_cases": "0"
+  },
+  {
+   "name": "Solomon Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/solomon-islands/",
+   "total_cases": "20",
+   "total_recovered": "20",
+   "active_cases": "0"
+  },
+  {
+   "name": "Western Sahara",
+   "url": "https://www.worldometers.info/coronavirus/country/western-sahara/",
+   "total_cases": "10",
+   "total_deaths": "1",
+   "total_recovered": "8",
+   "active_cases": "1"
+  },
+  {
+   "name": "MS Zaandam",
+   "total_cases": "9",
+   "total_deaths": "2",
+   "total_recovered": "7",
+   "active_cases": "0"
+  },
+  {
+   "name": "Vanuatu",
+   "url": "https://www.worldometers.info/coronavirus/country/vanuatu/",
+   "total_cases": "4",
+   "total_deaths": "1",
+   "total_recovered": "3",
+   "active_cases": "0"
+  },
+  {
+   "name": "Marshall Islands",
+   "url": "https://www.worldometers.info/coronavirus/country/marshall-islands/",
+   "total_cases": "4",
+   "total_recovered": "4",
+   "active_cases": "0"
+  },
+  {
+   "name": "Samoa",
+   "url": "https://www.worldometers.info/coronavirus/country/samoa/",
+   "total_cases": "3",
+   "total_recovered": "3",
+   "active_cases": "0"
+  },
+  {
+   "name": "Saint Helena",
+   "url": "https://www.worldometers.info/coronavirus/country/saint-helena/",
+   "total_cases": "2",
+   "total_recovered": "2",
+   "active_cases": "0"
+  },
+  {
+   "name": "Micronesia",
+   "url": "https://www.worldometers.info/coronavirus/country/micronesia/",
+   "total_cases": "1",
+   "total_recovered": "1",
+   "active_cases": "0"
+  }
+ ]
+}
