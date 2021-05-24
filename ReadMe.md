@@ -1,12 +1,18 @@
-# Coronavirus Voice Assistant
+# Coronavirus Voice Assistant [COVID-19 Bot]
 
-This app makes use of [ParseHub](https://www.parsehub.com/) which is a powerful web-scraping tool.
+![](https://campussanofi.es/wp-content/uploads/2020/05/chatbots-covid-19.jpg)
 
-The data is extracted from the very popular website [Worldometers](https://www.worldometers.info/coronavirus/) that provides the accurate information about the COVID19 disease worldwide.
+<h1> Introduction </h1>
+The coronavirus has caused havoc across the globe. Millions of people are infected, and thousands are dead. The pandemic is still on the rise as all the countries in the world have imposed a lockdown. I created the <b>COVID-19 Voice Assistant</b> because everybody has the right to know how this virus has affected our lives as we continue to wage war against it.
 
 ---
 
-Steps to be followed:
+<h1>Webscraping to extract data</h1>
+This app makes use of <b>ParseHub</b> which is a powerful web-scraping tool.The data is extracted from the very popular website <b>Worldometers</b> that provides the accurate information about the COVID19 disease worldwide.
+
+---
+
+<h1>Steps to be followed:</h1>
 
 1. Download [ParseHub](https://www.parsehub.com/quickstart).
 2. Start a New Project and paste the link 'https://www.worldometers.info/coronavirus/'.
@@ -17,7 +23,7 @@ Steps to be followed:
 
 ---
 
-Steps to run the application:
+<h1>Steps to run the COVID-19 Voice Assistant:</h1>
 
 1. Execute the command "runVoiceAssistant.py"
 2. Ask the assistant for "number of recovered cases in India", "total cases in India", etc.
